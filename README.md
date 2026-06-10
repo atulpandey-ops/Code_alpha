@@ -1,6 +1,4 @@
-# Code_alpha
-
-This repository contains two movie data analysis projects developed using Python and Jupyter Notebook.
+# Code_alpha1
 
 ## Project 1
 Files:
@@ -12,17 +10,6 @@ Features:
 - Genre Analysis
 - Popularity Analysis
 - Data Visualization
-
-## Project 2
-Files:
-- P2.ipynb
-- netflix_titles.csv
-
-Features:
-- Netflix Dataset Analysis.
-- Exploratory Data Analysis.
-- Data preprocessing.
-- Data Visualization.
 
 ## Tools Used
 - Python
